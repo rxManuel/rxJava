@@ -21,6 +21,7 @@ Si decides utilizar este repositorio para aprender rxJava o embarcarte en la pro
   -  HolaCreador.java
   -  HolaFunciones.java
   -  HolaInfinito.java
+  -  HolaInfinitoControlado.java
 - noticias (proyecto guiado)
 - sesion06
 - sesion07
