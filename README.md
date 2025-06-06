@@ -12,6 +12,7 @@ Este repositorio contiene ejercicios recuperados de un curso que impartí en 201
 - Java 8
   - Debido al uso de tools.jar se recomienda OpenJDK 8 o bien ajusta los assert por tu cuenta a tu version más moderna
 - rxJava 8
+  
 ## Sobre el orden
 Si decides utilizar este repositorio para aprender rxJava o embarcarte en la programación reactiva este es el orden que te recomiendo seguir:
 - principales
@@ -26,6 +27,10 @@ Si decides utilizar este repositorio para aprender rxJava o embarcarte en la pro
 - sesion06
 - sesion07
 - cli (proyecto final del curso)
+  - opc2
   - opc1
     - frp (un approach declarativo, programación funcional)
     - oor (un approach OO)
+  
+  ##  ¿Quieres contribuir?
+ Sientete libre de hacer un fork y enviar pull request.
